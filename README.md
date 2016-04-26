@@ -18,4 +18,4 @@
   Será utilizado PHP com o Framework Symfony.
 
 ### Front-end
-  Será utilizado algum framework client-side (React ou Angular)
+  Será utilizado algum framework client-side (React ou Angular).
